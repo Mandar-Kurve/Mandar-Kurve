@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mandar-Kurve
-- 👀 I’m interested in playing with big data and computer languages
+- 👀 I'm interested in delving into big data and programming languages.
 - 🌱 I’m currently studying B.Tech in Industrial IoT, Honors in VLSI engineering, Google Data Analytics
 - 💞️ I’m looking to collaborate on Kaggle
-- 📫 How to reach me : +91 7758949886 or drop a mail at kurvemandar@gmail.com
+- 📫 How to reach me : drop a mail at kurvemandar@gmail.com
 - ⚡ Fun fact: Just learned how queries run, feeling accomplished! They run without legs... pun intended!
 
 <!---
